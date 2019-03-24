@@ -1,0 +1,2 @@
+# LinkList
+only for fun
